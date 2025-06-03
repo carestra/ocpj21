@@ -12,6 +12,7 @@ Using the book https://education.oracle.com/ouexam-pexam_1z0-830/pexam_1Z0-830
 2025-05-27
   - Read Introduction chapter of the book.
   - Stared Chapter 1.
+
 2025-05-30
   - Completed chapter 1.
   - Review questions chapter 1
@@ -27,5 +28,8 @@ Using the book https://education.oracle.com/ouexam-pexam_1z0-830/pexam_1Z0-830
 	- var declation, at compile time, assigment
 	- primitive types assignment och convertions from litterals
 	- assignment of numerical litterals such as hex, oct, binary, _.parseX(_), _.valueOf(_,_)
+
+2025-06-02
+  - Started Chapter 2.
 	
 
